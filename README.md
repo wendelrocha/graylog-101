@@ -1,2 +1,2 @@
 # graylog-101
-Entendendo o grayloh
+Entendendo o graylog
